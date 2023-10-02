@@ -1,1 +1,1 @@
-## Ejercicio de logica de programacion.
+Ejercicios de logica de programacion.
