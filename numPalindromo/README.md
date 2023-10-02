@@ -8,23 +8,23 @@ Puede devolver la respuesta en cualquier orden.
 
 ##### Ejemplo 1:
 
-Input: x = 121
-Output: true
+Input: `x = 121` <br>
+Output: `true` <br>
 Explicacion: 121 se lee como 121 de izquierda a derecha y de derecha a izquierda. 
 
 ##### Ejemplo 2:
 
-Input: x = -121
-Output: false
+Input: `x = -121` <br>
+Output: `false` <br>
 Explicacion: De izquierda a derecha se lee -121. De derecha a izquierda se lee 121-. Por lo que no es un palindromo.
 
 ##### Ejemplo 3:
 
-Input: x = 10
-Output: false
+Input: `x = 10` <br>
+Output: `false` <br>
 Explicacion: Se lee 01 de derecha a izquierda Por lo que no es un palindromo.
 
-### Solución: Verificación de Palíndromos
+## Solución: Verificación de Palíndromos
 
 Supongamos que `x = 121`, por lo que su forma invertida debería ser `121`.
 
